@@ -3,10 +3,10 @@
 Bring this Medical Dashboard to life :
 https://www.figma.com/file/RRo5JdZsWFFZPDVyaWBwp0CD/Medical-Dash
 
-## PROJECT SUMMARY
+## CHALLENGE SUMMARY
 - **Total Extra Points in this Challenge = 4**
 
-## PROJECT INSTRUCTIONS
+## CHALLENGE INSTRUCTIONS
 ### INFORMATION
 - you will be building the 4 pages in this Medical Dashboard Design with CODE
 - ACCEPTED CODE OPTIONS
