@@ -29,41 +29,36 @@ https://www.figma.com/file/RRo5JdZsWFFZPDVyaWBwp0CD/Medical-Dash
 9 Skeleton
 10 Milligram
 11 Susy
-* CSS Frameworks are allowed to speed up your work flow
+12 Materializecss
+13 Any other CSS framework
+* CSS Frameworks are allowed to speed up your work flow but not using any attracts extra points.
 
-### SUBMISSION
+### ATTEMPT
 - you are to initialize a GIT repo for the project
-- once you complete this challenge, you will fill a {{ google_form }} and submit the following :
+- once you complete this challenge, you will fill this [form](https://jalsem.typeform.com/to/HG9ceK) and submit the following :
 1 GIT repo link and
 2 GITHUB PAGE preview link
-- which we will vet and contact you
+- which we will vet and contact you when we're done
 
 ### DEADLINE
-- you have just 3 to 5 Days to complete this task.
-- once completed, put it on GITHUB PAGES and submit the preview link on the specified {{ google_form }}
+- you have just 3 to 4 Days to complete this task.
+- once completed, put it on GITHUB PAGES and submit the preview link on the specified [form](https://jalsem.typeform.com/to/HG9ceK)
 
-### PRIZE
-- the following amount will be won
-1 NGN 8,000 *if completed in 3 Days as specified*
-2 NGN 4,000 *if completed within 4 Days*
-3 NGN 2,000 *if completed within 5 Days*
+### Extra Points
+- We are giving pricesthe following amount will be won
+1 Extra 5 points: *if completed in 3 Days as specified*
+2 Extra 5 points: *Clean codes and proper code commmenting*
+3 Extra 5 points: *Submitted Work is FULLY Mobile Responsive*
 
-**anything above 5 Days is strictly considered a FAILURE**
-
-### EXTRA POINTS
-- Extra Points as specified in comments on all 4 Pages of the design will earn you a total of an Extra NGN 2000 if done properly.
-- CALCULATION : (NGN 2000 / Total Extra Points) * Number of Extra Points Correctly Passed.
-- Meaning : if you completed 2 Extra Points out of the 4 Highlights you win NGN 1000 Extra.
+**Please don't bother submitting if the challenge takes you more than 4 Days**
 
 ### SUCCESS CRITERIA
 #### REQUIRED
-1 You completed the challenge within any of the specified Deadlines 3 - 5 Days.
+1 You completed the challenge within any of the specified Deadlines 3 - 4 Days.
 2 Your Code Preview looks exactly like the design.
-#### OPTIONAL
-1 Submitted Work is FULLY Mobile Responsive.
 
 ### FAILURE CRITERIA
-1 Did not meet any of the Deadlines
-2 Blindly copied another mans work by downloading his / her progress or solution from his / her GIT repo
+1 Does not meet the Deadline
+2 Plagiarism
 
-**Every Programmer has a signature so we will catch & disqualify you.**
+**Every Programmer has a signature so we will catch & disqualify you if you copy some other person's work**
