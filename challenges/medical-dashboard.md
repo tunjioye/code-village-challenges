@@ -10,7 +10,7 @@ https://www.figma.com/file/RRo5JdZsWFFZPDVyaWBwp0CD/Medical-Dash
 ### INFORMATION
 - you will be building the 4 pages in this Medical Dashboard Design with CODE
 - ACCEPTED CODE OPTIONS
-1. HTML CSS JS
+1. HTML/CSS/JS
 2. React JS
 3. Vue JS
 4. NEXT JS
